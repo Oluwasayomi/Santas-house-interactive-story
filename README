@@ -1,1 +1,2 @@
-An interactive Python game exploring branches. 
+A choice-driven interactive story game using Python and Ren’py where users' decisions dynamically affect the storyline and endings. 
+This was implemented using branching logic and UI elements, increasing replay value and user engagement.
